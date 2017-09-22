@@ -1,0 +1,4 @@
+all:
+  app: for all applications and all environments live change
+common:
+  message: message from appliation.yml

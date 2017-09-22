@@ -1,0 +1,8 @@
+configuration:
+  projectName: configclient
+server:
+  port: 8001
+my:
+  app: for my app in all envs
+common:
+  message: message from configclient.yml

@@ -1,0 +1,4 @@
+all:
+  env: for all apps in an env
+common:
+  message: message from application-production.yml
